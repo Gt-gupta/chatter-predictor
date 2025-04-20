@@ -1,0 +1,12 @@
+.check{
+    height: 40px;
+    width: 20%;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #f0f1c5;
+    margin-top: 45vh;
+    margin-left: 50%;
+    cursor: pointer;
+}
